@@ -1,0 +1,8 @@
+---
+category: data
+filename: combinedimputed05.csv
+weight: 2
+title: 1_to_5_Western_Kenya
+description: a scab dataset on common bean scored on a scale scale 1 to 3 with 2s and 3s as border transition scores which were later converted to 3 and 5 respectively.
+type: csv
+---
